@@ -16,8 +16,6 @@ Delete all registered students or by roll number.
 View list of registered students.
 Check presence count of students by roll number.
 View list of students with their attendance count.
-How to Use
-Clone the repository to your local machine: git clone https://github.com/Rdrahul123/attendance-management-system.git
 
 Compile the source code using a C++ compiler.
 
